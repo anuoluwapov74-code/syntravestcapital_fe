@@ -121,12 +121,14 @@ export default function RootLayout({
         </ThemeProvider>
 
         {/* LiveChat - Jivo */}
-        {/*
-          <Script
-            src="//code.jivosite.com/widget/Ut6KwrqmNU"
-            strategy="afterInteractive"
-          /> 
-        */}
+        
+        <Script
+          src="//code.jivosite.com/widget/FjBupfmeE6"
+          strategy="afterInteractive"
+        /> 
+       
+
+        
       </body> 
     </html>
   );
