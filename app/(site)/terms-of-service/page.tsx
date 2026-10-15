@@ -7,12 +7,12 @@ import PagePreloader from "@/components/PagePreloader";
 export const metadata: Metadata = {
   title: "Terms of Service — SyntraVestCapitals",
   description: "Read the SyntraVestCapitals Terms of Service governing your use of our copy trading platform, including account terms, trading rules, and user obligations.",
-  alternates: { canonical: "https://syntravestcapital.com/terms-of-service" },
+  alternates: { canonical: "https://syntravestcapitals.com/terms-of-service" },
   robots: { index: true, follow: false },
   openGraph: {
     title: "Terms of Service — SyntraVestCapitals",
     description: "The terms governing your use of the SyntraVestCapitals copy trading platform.",
-    url: "https://syntravestcapital.com/terms-of-service",
+    url: "https://syntravestcapitals.com/terms-of-service",
   },
 };
 

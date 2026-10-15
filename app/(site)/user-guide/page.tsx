@@ -8,11 +8,11 @@ import FAQMajor from "@/components/site/FAQMajor";
 export const metadata: Metadata = {
   title: "User Guide — Getting Started with SyntraVestCapitals",
   description: "Learn how to use SyntraVestCapitals: create your account, verify your identity, fund your wallet, choose a Leader Trader, and start copy trading in minutes.",
-  alternates: { canonical: "https://syntravestcapital.com/user-guide" },
+  alternates: { canonical: "https://syntravestcapitals.com/user-guide" },
   openGraph: {
     title: "SyntraVestCapitals User Guide",
     description: "Step-by-step guide to getting started with copy trading on SyntraVestCapitals.",
-    url: "https://syntravestcapital.com/user-guide",
+    url: "https://syntravestcapitals.com/user-guide",
   },
 };
 
@@ -276,7 +276,7 @@ export default function UserGuide() {
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="text-green-600 font-bold">&#8226;</span>
-                  <span><strong>Email support</strong> — Reach us at support@syntravestcapital.com</span>
+                  <span><strong>Email support</strong> — Reach us at support@syntravestcapitals.com</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="text-green-600 font-bold">&#8226;</span>

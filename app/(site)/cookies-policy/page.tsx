@@ -7,12 +7,12 @@ import PagePreloader from "@/components/PagePreloader";
 export const metadata: Metadata = {
   title: "Cookies Policy — SyntraVestCapitals",
   description: "Learn how SyntraVestCapitals uses cookies and similar technologies to improve your experience on our copy trading platform.",
-  alternates: { canonical: "https://syntravestcapital.com/cookies-policy" },
+  alternates: { canonical: "https://syntravestcapitals.com/cookies-policy" },
   robots: { index: true, follow: false },
   openGraph: {
     title: "Cookies Policy — SyntraVestCapitals",
     description: "How SyntraVestCapitals uses cookies on our copy trading platform.",
-    url: "https://syntravestcapital.com/cookies-policy",
+    url: "https://syntravestcapitals.com/cookies-policy",
   },
 };
 
@@ -184,7 +184,7 @@ export default function CookiesPolicy() {
               </p>
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
                 To opt out or manage your cookie preferences, please email us at{" "}
-                <span className="text-green-600">support@syntravestcapital.com</span>. Our team
+                <span className="text-green-600">support@syntravestcapitals.com</span>. Our team
                 will assist you with updating your preferences promptly.
               </p>
             </section>

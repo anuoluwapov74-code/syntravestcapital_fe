@@ -75,7 +75,7 @@ const Footer = () => {
               <FooterSection
                 title="CONTACT"
                 links={[
-                  { label: "support@syntravestcapital.com", href: "mailto:support@syntravestcapital.com" },
+                  { label: "support@syntravestcapitals.com", href: "mailto:support@syntravestcapitals.com" },
                 ]}
               />
             </div>

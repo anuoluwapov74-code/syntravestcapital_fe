@@ -7,12 +7,12 @@ import PagePreloader from "@/components/PagePreloader";
 export const metadata: Metadata = {
   title: "Risk Disclaimer — SyntraVestCapitals",
   description: "Important risk information for SyntraVestCapitals users. Copy trading and derivatives involve substantial risk of loss. Read this disclaimer before using SyntraVestCapitals.",
-  alternates: { canonical: "https://syntravestcapital.com/risk-disclaimer" },
+  alternates: { canonical: "https://syntravestcapitals.com/risk-disclaimer" },
   robots: { index: true, follow: false },
   openGraph: {
     title: "Risk Disclaimer — SyntraVestCapitals",
     description: "Important risk information for SyntraVestCapitals copy trading users.",
-    url: "https://syntravestcapital.com/risk-disclaimer",
+    url: "https://syntravestcapitals.com/risk-disclaimer",
   },
 };
 

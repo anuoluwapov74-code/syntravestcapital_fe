@@ -19,7 +19,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://syntravestcapital.com"),
+  metadataBase: new URL("https://syntravestcapitals.com"),
   title: {
     default: "SyntraVestCapitals — Copy Futures, Options & Contracts with Precision",
     template: "%s | SyntraVestCapitals",
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     "futures copy trading",
     "options copy trading",
   ],
-  authors: [{ name: "SyntraVestCapitals", url: "https://syntravestcapital.com" }],
+  authors: [{ name: "SyntraVestCapitals", url: "https://syntravestcapitals.com" }],
   creator: "SyntraVestCapitals",
   publisher: "SyntraVestCapitals",
   category: "Finance",
@@ -60,18 +60,18 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://syntravestcapital.com",
+    canonical: "https://syntravestcapitals.com",
   },
   openGraph: {
     type: "website",
-    url: "https://syntravestcapital.com",
+    url: "https://syntravestcapitals.com",
     siteName: "SyntraVestCapitals",
     title: "SyntraVestCapitals — Copy Futures, Options & Contracts with Precision",
     description:
       "Mirror real-time stock and options trades from top-performing traders. Precision, flexibility, and transparency — straight to your fingertips.",
     images: [
       {
-        url: "https://syntravestcapital.com/opengraph-image.png",
+        url: "https://syntravestcapitals.com/opengraph-image.png",
         width: 1200,
         height: 630,
         alt: "SyntraVestCapitals — Copy Trading Platform",
@@ -86,7 +86,7 @@ export const metadata: Metadata = {
     title: "SyntraVestCapitals — Copy Futures, Options & Contracts with Precision",
     description:
       "Mirror real-time stock and options trades from top-performing traders. Precision, flexibility, and transparency — straight to your fingertips.",
-    images: ["https://syntravestcapital.com/opengraph-image.png"],
+    images: ["https://syntravestcapitals.com/opengraph-image.png"],
   },
   icons: {
     icon: [

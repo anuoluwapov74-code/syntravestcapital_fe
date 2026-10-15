@@ -7,11 +7,11 @@ import PagePreloader from "@/components/PagePreloader";
 export const metadata: Metadata = {
   title: "Affiliate Guide — How to Earn with SyntraVestCapitals",
   description: "Step-by-step guide to earning commissions as a SyntraVestCapitals affiliate. Learn how to share your referral link, track conversions, and maximise your affiliate income.",
-  alternates: { canonical: "https://syntravestcapital.com/affiliate-guide" },
+  alternates: { canonical: "https://syntravestcapitals.com/affiliate-guide" },
   openGraph: {
     title: "SyntraVestCapitals Affiliate Guide",
     description: "How to earn commissions as a SyntraVestCapitals affiliate — step-by-step.",
-    url: "https://syntravestcapital.com/affiliate-guide",
+    url: "https://syntravestcapitals.com/affiliate-guide",
   },
 };
 
