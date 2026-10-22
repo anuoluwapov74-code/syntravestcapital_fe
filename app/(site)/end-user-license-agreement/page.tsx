@@ -7,12 +7,12 @@ import PagePreloader from "@/components/PagePreloader";
 export const metadata: Metadata = {
   title: "End User License Agreement — SyntraVestCapitals",
   description: "Read the SyntraVestCapitals EULA governing your licence to use the SyntraVestCapitals copy trading application, including permitted uses and restrictions.",
-  alternates: { canonical: "https://syntravestcapitals.com/end-user-license-agreement" },
+  alternates: { canonical: "https://syntravestscapital.com/end-user-license-agreement" },
   robots: { index: true, follow: false },
   openGraph: {
     title: "End User License Agreement — SyntraVestCapitals",
     description: "The EULA governing your licence to use the SyntraVestCapitals application.",
-    url: "https://syntravestcapitals.com/end-user-license-agreement",
+    url: "https://syntravestscapital.com/end-user-license-agreement",
   },
 };
 
@@ -325,7 +325,7 @@ export default function EndUserLicenseAgreement() {
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
                 If you have any questions about this End User License Agreement, please
                 contact us at{" "}
-                <span className="text-green-600">support@syntravestcapitals.com</span>. Our team
+                <span className="text-green-600">support@syntravestscapital.com</span>. Our team
                 is available to assist you with any inquiries regarding your rights and
                 obligations under this agreement.
               </p>

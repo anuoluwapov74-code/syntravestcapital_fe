@@ -8,11 +8,11 @@ import Image from "next/image";
 export const metadata: Metadata = {
   title: "About SyntraVestCapitals",
   description: "Learn about SyntraVestCapitals — our mission to democratise copy trading for futures, options, and contracts. Meet the team building precision, transparency, and zero-commission trading.",
-  alternates: { canonical: "https://syntravestcapitals.com/about" },
+  alternates: { canonical: "https://syntravestscapital.com/about" },
   openGraph: {
     title: "About SyntraVestCapitals",
     description: "Our mission to democratise copy trading. Meet the team behind SyntraVestCapitals.",
-    url: "https://syntravestcapitals.com/about",
+    url: "https://syntravestscapital.com/about",
   },
 };
 
@@ -229,10 +229,10 @@ export default function AboutPage() {
                 Have questions about SyntraVestCapitals? We&apos;d love to hear from
                 you. Reach out to our team at{" "}
                 <a
-                  href="mailto:support@syntravestcapitals.com"
+                  href="mailto:support@syntravestscapital.com"
                   className="text-green-600 hover:text-green-700 underline"
                 >
-                  support@syntravestcapitals.com
+                  support@syntravestscapital.com
                 </a>{" "}
                 or start a conversation through our live chat.
               </p>

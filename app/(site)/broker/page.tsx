@@ -7,11 +7,11 @@ import PagePreloader from "@/components/PagePreloader";
 export const metadata: Metadata = {
   title: "Broker Integrations — SyntraVestCapitals",
   description: "SyntraVestCapitals integrates with E-Trade, Webull, TD Ameritrade, Interactive Brokers, Schwab, and more. Connect your existing broker account and start copy trading instantly.",
-  alternates: { canonical: "https://syntravestcapitals.com/broker" },
+  alternates: { canonical: "https://syntravestscapital.com/broker" },
   openGraph: {
     title: "Broker Integrations — SyntraVestCapitals",
     description: "Connect E-Trade, Webull, Schwab, and more to start copy trading on SyntraVestCapitals.",
-    url: "https://syntravestcapitals.com/broker",
+    url: "https://syntravestscapital.com/broker",
   },
 };
 
@@ -377,10 +377,10 @@ export default function BrokerPartnership() {
               hours.
             </p>
             <Link
-              href="mailto:support@syntravestcapitals.com"
+              href="mailto:support@syntravestscapital.com"
               className="text-green-700 dark:text-green-400 hover:text-green-800 dark:hover:text-green-300 font-medium transition"
             >
-              support@syntravestcapitals.com
+              support@syntravestscapital.com
             </Link>
           </div>
         </section>

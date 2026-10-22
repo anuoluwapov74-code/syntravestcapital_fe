@@ -7,12 +7,12 @@ import PagePreloader from "@/components/PagePreloader";
 export const metadata: Metadata = {
   title: "Declaration of Consent — SyntraVestCapitals",
   description: "SyntraVestCapitals's declaration of consent document covering data processing, marketing communications, and user rights under applicable privacy regulations.",
-  alternates: { canonical: "https://syntravestcapitals.com/declaration-of-consent" },
+  alternates: { canonical: "https://syntravestscapital.com/declaration-of-consent" },
   robots: { index: true, follow: false },
   openGraph: {
     title: "Declaration of Consent — SyntraVestCapitals",
     description: "SyntraVestCapitals consent document for data processing and user rights.",
-    url: "https://syntravestcapitals.com/declaration-of-consent",
+    url: "https://syntravestscapital.com/declaration-of-consent",
   },
 };
 
@@ -220,7 +220,7 @@ export default function DeclarationOfConsent() {
                 consents may affect our ability to provide services to you and may result
                 in the closure of your account. To withdraw your consent, please contact
                 our support team at{" "}
-                <span className="text-green-600">support@syntravestcapitals.com</span>. We will
+                <span className="text-green-600">support@syntravestscapital.com</span>. We will
                 process your request in accordance with applicable laws and inform you of
                 any consequences of the withdrawal.
               </p>

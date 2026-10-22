@@ -30,6 +30,6 @@ export default function robots(): MetadataRoute.Robots {
         ],
       },
     ],
-    sitemap: "https://syntravestcapitals.com/sitemap.xml",
+    sitemap: "https://syntravestscapital.com/sitemap.xml",
   };
 }

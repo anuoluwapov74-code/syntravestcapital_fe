@@ -7,11 +7,11 @@ import PagePreloader from "@/components/PagePreloader";
 export const metadata: Metadata = {
   title: "Leader Trader Guide — SyntraVestCapitals",
   description: "Everything you need to know about becoming a top Leader Trader on SyntraVestCapitals. Set your strategy, manage copiers, and maximise your earnings as a SyntraVestCapitals expert.",
-  alternates: { canonical: "https://syntravestcapitals.com/leader-guide" },
+  alternates: { canonical: "https://syntravestscapital.com/leader-guide" },
   openGraph: {
     title: "SyntraVestCapitals Leader Trader Guide",
     description: "How to become a top Leader Trader and earn on SyntraVestCapitals.",
-    url: "https://syntravestcapitals.com/leader-guide",
+    url: "https://syntravestscapital.com/leader-guide",
   },
 };
 

@@ -7,11 +7,11 @@ import PagePreloader from "@/components/PagePreloader";
 export const metadata: Metadata = {
   title: "AutoGuard™ — SyntraVestCapitals Risk Management",
   description: "AutoGuard™ by SyntraVestCapitals automatically applies stop-loss, trailing stops, and position-size limits to every copied trade. Protect your capital while you copy the best traders.",
-  alternates: { canonical: "https://syntravestcapitals.com/autoguard" },
+  alternates: { canonical: "https://syntravestscapital.com/autoguard" },
   openGraph: {
     title: "AutoGuard™ — SyntraVestCapitals Risk Management",
     description: "Automatic risk protection built into every copied trade on SyntraVestCapitals.",
-    url: "https://syntravestcapitals.com/autoguard",
+    url: "https://syntravestscapital.com/autoguard",
   },
 };
 

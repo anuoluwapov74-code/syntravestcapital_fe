@@ -7,11 +7,11 @@ import PagePreloader from "@/components/PagePreloader";
 export const metadata: Metadata = {
   title: "SyntraVestCapitals Affiliate Programme",
   description: "Earn commissions by referring traders to SyntraVestCapitals. Join the SyntraVestCapitals affiliate programme, get your unique link, and grow your income by sharing the best copy trading platform.",
-  alternates: { canonical: "https://syntravestcapitals.com/affiliate" },
+  alternates: { canonical: "https://syntravestscapital.com/affiliate" },
   openGraph: {
     title: "SyntraVestCapitals Affiliate Programme",
     description: "Refer traders to SyntraVestCapitals and earn commissions on every referral.",
-    url: "https://syntravestcapitals.com/affiliate",
+    url: "https://syntravestscapital.com/affiliate",
   },
 };
 
